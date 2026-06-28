@@ -7,7 +7,7 @@ Examples:
 
 Check IP of running container:
 
-<code>docker run --rm --net=container:[<i>container</i>] cadeted/curl curl -s ifcongi.co</code>
+<code>docker run --rm --net=container:[<i>container</i>] cadeted/curl curl -s ifconfig.me</code>
 
 Check IP of docker host:
 
