@@ -11,4 +11,4 @@ Check IP of running container:
 
 Check IP of docker host:
 
-<code>docker run --rm cadeted/curl curl -s ifcongi.co</code>
+<code>docker run --rm cadeted/curl curl -s ifconfig.me</code>
